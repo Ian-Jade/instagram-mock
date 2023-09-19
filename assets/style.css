@@ -1,0 +1,25 @@
+.fixed-bar {
+    border: rgb(206, 206, 206) solid 1px;
+    width: 24%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+}
+
+.fixed-bar img {
+    height: 6%;
+    width: 38%;
+}
+
+.fixed-bar a {
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.fixed-bar li {
+    border: black solid 2px;
+    width: 100%;
+}
