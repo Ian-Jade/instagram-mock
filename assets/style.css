@@ -8,6 +8,15 @@
     height: 100%;
     position: fixed;
     align-items: center;
+    padding: 30;
+}
+
+.itens-2 {
+    padding: 15;
+}
+
+.itens-3 {
+    padding: 5;
 }
 
 .menu-item {
@@ -17,6 +26,7 @@
     justify-content: center;
     border-radius: 4px;
     background-color: white;
+    padding: 5;
 }
 
 .menu-item:hover {
@@ -29,7 +39,7 @@
 }
 
 .icon-box img {
-    width: 24px
+    width: 24px;
 }
 
 .text-box {
@@ -50,4 +60,8 @@
 .icon-box-2 img {
     width: 30px;
     border-radius: 100%;
+}
+
+.footer {
+    padding: 2%;
 }
